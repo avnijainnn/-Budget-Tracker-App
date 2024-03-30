@@ -1,1 +1,2 @@
 # -Budget-Tracker-App
+Budget Tracker is a simple command-line program designed to help users track their expenses and manage their budgets effectively. With Budget Tracker, users can set a budget for a specific time period (e.g., month or week) and then add their expenses as they occur. The program allows users to input expenses directly into the command line, making it quick and convenient to use.
